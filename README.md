@@ -7,23 +7,27 @@
 | Lecturer, Department of ECE, RUET | Id: 1810017 |
 |                    | Session: 18-19         |
 
-# Table of Contents
+# INDEX
 
 ## Experiments
 
 1. **Study of Linear Convolution and Implementation using MATLAB code.**
-
-2. **Study of Circular Convolution and Implementation using MATLAB code.**
-   - 1. Plotting the figure of given two signals & summation and subtraction of them using MATLAB code.
-   - 2. Plotting the given two signals in one figure using MATLAB code.
-
+   - [Link to Experiment 1](/Lab1/exp1.pdf)
+2. **Study of Circular Convolution,  two signal's summation and subtraction and Implementation using MATLAB code.**
+   - [Link to Experiment 2](/Lab2/exp2.pdf)
 3. **Study of Auto-correlation, Cross-correlation using MATLAB code.**
+   - [Link to Experiment 3](/Lab3/exp3.pdf)
 
 4. **Study of Identifying Delay using correlation.**
-
-5. **Z-Transform of Causal, Noncausal, and Anticausal Systems.**
-   - [Link to Experiment 1](/Lab1/exp1.pdf)
-   - [Link to Experiment 2](/Lab2/exp2.pdf)
-   - [Link to Experiment 3](/Lab3/exp3.pdf)
    - [Link to Experiment 4](/Lab4/exp4.pdf)
+
+5. **Z-Transform of Causal, Noncausal, and Anticausal Systems.**  
    - [Link to Experiment 5](/Lab5/exp5.pdf)
+
+| Experiment | Description |
+|------------|-------------|
+| **1.** Study of Linear Convolution and Implementation using MATLAB code. | [Link to Experiment 1](/Lab1/exp1.pdf) |
+| **2.** Study of Circular Convolution, two signal's summation and subtraction and Implementation using MATLAB code. | [Link to Experiment 2](/Lab2/exp2.pdf) |
+| **3.** Study of Auto-correlation, Cross-correlation using MATLAB code. | [Link to Experiment 3](/Lab3/exp3.pdf) |
+| **4.** Study of Identifying Delay using correlation. | [Link to Experiment 4](/Lab4/exp4.pdf) |
+| **5.** Z-Transform of Causal, Noncausal, and Anticausal Systems. | [Link to Experiment 5](/Lab5/exp5.pdf) |
