@@ -116,3 +116,5 @@ The experiment was successful, and we did not encounter any errors while running
 [^delay]: Reference to the figure labeled as "Graphical Plot delay signal."
 [@unknown-author-2017]: Understanding Correlation - Technical Articles. (2017, January). Retrieved from [https://www.allaboutcircuits.com/technical-articles/understanding-correlation/](https://www.allaboutcircuits.com/technical-articles/understanding-correlation/)
 ```
+# References
+[@unknown-author-2017]: Understanding Correlation - Technical Articles. (2017, January). Retrieved from [https://www.allaboutcircuits.com/technical-articles/understanding-correlation/](https://www.allaboutcircuits.com/technical-articles/understanding-correlation/)
