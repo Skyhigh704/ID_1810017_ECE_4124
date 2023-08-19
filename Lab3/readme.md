@@ -100,7 +100,7 @@ Here is the outcome of the above code.
 - **Figure3.1**: Graphical Plot of autocorrelation
 
 ## Output of Cross Correlation
-![Graphical Plot of crosscorrelation](image/crosscorr.jpg)
+![Graphical Plot of crosscorrelation](image/cross_corr.jpg)
 - **Figure3.2**: Graphical Plot of crosscorrelation
 
 ## Plotting for Identifying Delay Signal
