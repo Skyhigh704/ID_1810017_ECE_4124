@@ -107,19 +107,18 @@ Here is the outcome of the above code.
 
 ## Circular Convolution
 ![Graphical Plot of output sequence y(n).](image/ex1.png)
-Figure: Graphical Plot of output sequence y(n).
+- Figure2.1: Graphical Plot of output sequence y(n).
 
 ## Summation-Subtraction of Signals
 ![Graphical Plot of n1, n2, n1+n2, n1-n2  signals.](image/ex2.png)
-Figure: Graphical Plot of n1, n2, n1+n2, n1-n2 signals.
+- Figure2.2: Graphical Plot of n1, n2, n1+n2, n1-n2 signals.
 
 ## Plotting Two Signals in One Figure
 ![Graphical Plot signal1 & signal2](image/ex3.png)
-Figure: Graphical Plot of signal1 & signal2
+- Figure2.3: Graphical Plot of signal1 & signal2
 
 The outcomes of this experiment were achieved as desired i.e. the circular convolution of input signals using the matrix method. The matrix multiplication approach handled periodic input signals by circular shifting method. For example, for N length input, the shifting was done N-1 times. After each shifting, the shifted values are stored in another array. Thereby, there are N number of arrays where each array has N number of elements. The matrix formed using this array is of N*N size. By transposing them this matrix, the actual matrix needed was formed. And finally using matrix multiplication of this matrix with another column matrix, the result obtained. To draw the trapezoidal signal all the angular points were determined and then plotted.
 
-# Discussion
 ## Conclusion
 The experiment was successful, and we did not encounter any errors while running the **MATLAB** code.
 
