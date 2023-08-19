@@ -16,6 +16,7 @@
 10. [References](#references)
 
 ## Experiment N0 01
+## Date of Experiment: 19/03/2023
 ## Experiment Name
 Study of Linear Convolution and Implementation using MATLAB code.
 
@@ -83,7 +84,8 @@ n = 1;
 ## Result & Discussion
 ## Plotting of output signal
 ![Graphical Plot](image/output.png)
-Figure: Graphical Plot of output signal
+
+### Figure: Graphical Plot of output signal
 
 
 ## Conclusion

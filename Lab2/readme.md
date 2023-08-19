@@ -1,4 +1,5 @@
 # Experiment N0 02
+## Date of Experiment: 03/04/2023
 ## Experiment Name
 1. Study of Circular Convolution and Implementation using **MATLAB** code.
 2. Plotting the figure of given two signals & summation and subtraction of them using **MATLAB** code.
@@ -124,4 +125,5 @@ The experiment was successful, and we did not encounter any errors while running
 
 
 # References
-[@libretexts-2022]]: Circular Convolution. (2022). Retrieved from [https://phys.libretexts.org/Bookshelves/Modern\_Physics/Book\%3A\_Fundamentals\_of\_Modern\_Physics\_(I\_Okon\_and\_S\_Osinowo)/12\%3A\_Signal\_Processing\_and\_Computational\_Physics/12.10\%3A\_Circular\_Convolution](https://phys.libretexts.org/Bookshelves/Modern_Physics/Book%3A_Fundamentals_of_Modern_Physics_(I_Okon_and_S_Osinowo)/12%3A_Signal_Processing_and_Computational_Physics/12.10%3A_Circular_Convolution)
+[@libretexts-2022]: Circular Convolution. (2022).
+Retrieved from [https://phys.libretexts.org/Bookshelves/Modern\_Physics/Book\%3A\_Fundamentals\_of\_Modern\_Physics\_(I\_Okon\_and\_S\_Osinowo)/12\%3A\_Signal\_Processing\_and\_Computational\_Physics/12.10\%3A\_Circular\_Convolution](https://phys.libretexts.org/Bookshelves/Modern_Physics/Book%3A_Fundamentals_of_Modern_Physics_(I_Okon_and_S_Osinowo)/12%3A_Signal_Processing_and_Computational_Physics/12.10%3A_Circular_Convolution)
