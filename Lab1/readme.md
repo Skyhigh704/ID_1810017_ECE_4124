@@ -38,7 +38,7 @@ MATLAB
 3. Multiplyed the two sequences element-wise and store the sum in y(n).
 
 ### Tabular Method
-1. Constructedinput sequences X(n) and input response H(n) functions.
+1. Constructed input sequences X(n) and input response H(n) functions.
 2. For each n, multiplyed h(n) and x(k) to form a matrix A.
 3. Used nested loops to compute the output sequence y(n) by adding diagonal elements of matrix A.
 
@@ -62,7 +62,7 @@ for n = 1 : xl + hl - 1
         end
     end
 end
-
+```
 ### Tabular Method
 ```matlab
 % MATLAB code for tabular method
