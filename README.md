@@ -1,11 +1,17 @@
 # Coure No: 4124
 # Course Name: Digital Signal Processing Sessional
 
-| Submitted To        | Submitted by           |
-|--------------------|------------------------|
-| Hafsa Binte Kibria | Student Name: Faria Afrin Tisha |
-| Lecturer, Department of ECE, RUET | Id: **1810017** |
-|                    | Session: 18-19         |
+## Submitted To:
+- Hafsa Binte Kibria
+- Lecturer, Departent of Electrical & computer Engineering,
+- Rajshahi University of Engineering & Technology 
+
+## Submitted by:
+- Student Name: Faria Afrin Tisha
+- Id: **1810017**
+- Session: 18-19
+- Departent of Electrical & computer Engineering,
+- Rajshahi University of Engineering & Technology 
 
 
 ## Index of Experiments
