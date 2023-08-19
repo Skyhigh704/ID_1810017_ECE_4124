@@ -4,7 +4,7 @@
 | Submitted To        | Submitted by           |
 |--------------------|------------------------|
 | Hafsa Binte Kibria | Student Name: Faria Afrin Tisha |
-| Lecturer, Department of ECe, RUET | Id: 1810017 |
+| Lecturer, Department of ECE, RUET | Id: 1810017 |
 |                    | Session: 18-19         |
 
 # Table of Contents
@@ -22,8 +22,8 @@
 4. **Study of Identifying Delay using correlation.**
 
 5. **Z-Transform of Causal, Noncausal, and Anticausal Systems.**
-   - [Link to Experiment 1](#)
-   - [Link to Experiment 2](#)
-   - [Link to Experiment 3](#)
-   - [Link to Experiment 4](#)
-   - [Link to Experiment 5](#)
+   - [Link to Experiment 1](/Lab1/exp1.pdf)
+   - [Link to Experiment 2](/Lab2/exp2.pdf)
+   - [Link to Experiment 3](/Lab3/exp3.pdf)
+   - [Link to Experiment 4](/Lab4/exp4.pdf)
+   - [Link to Experiment 5](/Lab5/exp5.pdf)
