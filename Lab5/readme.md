@@ -130,3 +130,5 @@ The results of the inverse Z-transform are displayed in a table, showing the val
 
 ## Conclusion
 In this report, we explored the Z-transform of causal, noncausal, and anticausal signals using MATLAB. By analyzing the resulting Z-plane plots, we gained insights into the characteristics and behavior of the signals in the Z-domain. The Z-transform is a valuable tool for understanding discrete-time signals and systems and is widely used
+# Refernces
+[1]: (https://www.mathworks.com/help/symbolic/sym.ztrans.html)

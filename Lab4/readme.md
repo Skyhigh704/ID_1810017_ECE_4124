@@ -45,9 +45,7 @@ The outcomes of this experiment were achieved as desired. We used the correlatio
 
 # Conclusion
 The experiment was successful & we did not encounter any errors while running the **MATLAB** code.
-
+# Refernces
 [^delay]: Reference to the figure labeled as "Graphical Plot delay signal."
-[1]: unknown-author-2017 
-```
-# References
 [@unknown-author-2017]: Understanding Correlation - Technical Articles. (2017, January). Retrieved from [https://www.allaboutcircuits.com/technical-articles/understanding-correlation/](https://www.allaboutcircuits.com/technical-articles/understanding-correlation/)
+
