@@ -3,14 +3,14 @@
 
 ## Submitted To:
 - Hafsa Binte Kibria
-- Lecturer, Departent of Electrical & computer Engineering,
+- Lecturer, Department of Electrical & computer Engineering,
 - Rajshahi University of Engineering & Technology 
 
 ## Submitted by:
 - Student Name: Faria Afrin Tisha
 - Id: **1810017**
 - Session: 18-19
-- Departent of Electrical & computer Engineering,
+- Department of Electrical & computer Engineering,
 - Rajshahi University of Engineering & Technology 
 
 
