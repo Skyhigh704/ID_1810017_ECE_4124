@@ -122,7 +122,6 @@ The outcomes of this experiment were achieved as desired i.e. the circular convo
 ## Conclusion
 The experiment was successful, and we did not encounter any errors while running the **MATLAB** code.
 
-[@libretexts-2022]: Circular Convolution. (2022). Retrieved from [https://phys.libretexts.org/Bookshelves/Modern\_Physics/Book\%3A\_Fundamentals\_of\_Modern\_Physics\_(I\_Okon\_and\_S\_Osinowo)/12\%3A\_Signal\_Processing\_and\_Computational\_Physics/12.10\%3A\_Circular\_Convolution](https://phys.libretexts.org/Bookshelves/Modern_Physics/Book%3A_Fundamentals_of_Modern_Physics_(I_Okon_and_S_Osinowo)/12%3A_Signal_Processing_and_Computational_Physics/12.10%3A_Circular_Convolution)
-```
+
 # References
 [@libretexts-2022]]: Circular Convolution. (2022). Retrieved from [https://phys.libretexts.org/Bookshelves/Modern\_Physics/Book\%3A\_Fundamentals\_of\_Modern\_Physics\_(I\_Okon\_and\_S\_Osinowo)/12\%3A\_Signal\_Processing\_and\_Computational\_Physics/12.10\%3A\_Circular\_Convolution](https://phys.libretexts.org/Bookshelves/Modern_Physics/Book%3A_Fundamentals_of_Modern_Physics_(I_Okon_and_S_Osinowo)/12%3A_Signal_Processing_and_Computational_Physics/12.10%3A_Circular_Convolution)
