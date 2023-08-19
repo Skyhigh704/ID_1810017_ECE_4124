@@ -7,7 +7,8 @@
 | Lecturer, Department of ECe, RUET | Id: 1810017 |
 |                    | Session: 18-19         |
 
-#Table of Contents
+# Table of Contents
+
 ## Experiments
 
 1. **Study of Linear Convolution and Implementation using MATLAB code.**
@@ -16,10 +17,7 @@
    - 1. Plotting the figure of given two signals & summation and subtraction of them using MATLAB code.
    - 2. Plotting the given two signals in one figure using MATLAB code.
 
-3. **Study of Auto-correlation, Cross-correlation, and Identifying Delay using MATLAB code.**
-   - 1. Study of Auto-correlation using MATLAB code.
-   - 2. Study of Cross-correlation using MATLAB code.
-   - 3. Study of identifying delay of a function using correlation.
+3. **Study of Auto-correlation, Cross-correlation using MATLAB code.**
 
 4. **Study of Identifying Delay using correlation.**
 
