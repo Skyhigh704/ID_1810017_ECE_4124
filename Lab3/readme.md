@@ -115,5 +115,5 @@ For identifying the delay time of a signal, we used the above correlation method
 The experiment was successful, and we did not encounter any errors while running the **MATLAB** code.
 # References
 [^delay]: Reference to the figure labeled as "Graphical Plot delay signal."
-[@unknown-author-2017]: Understanding Correlation - Technical Articles. (2017, January). **Available** [https://www.allaboutcircuits.com/technical-articles/understanding-correlation/](https://www.allaboutcircuits.com/technical-articles/understanding-correlation/)
+[^unknown-author-2017]: Understanding Correlation - Technical Articles. (2017, January). **Available** [https://www.allaboutcircuits.com/technical-articles/understanding-correlation/](https://www.allaboutcircuits.com/technical-articles/understanding-correlation/)
 
